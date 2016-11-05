@@ -1,0 +1,3 @@
+rootProject.name = 'WhishList'
+
+include ':app'
